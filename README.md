@@ -1,0 +1,11 @@
+Recipe - Creating a New working directory
+- Fork an existing repository on Github - should be the grey button on top right
+- Locate the Green “Code” button on the top right corner then proceed to click the code space button
+- You should be redirected to a new tab where on the top left 3 lines sandwiched together among a few options you should see one listed as “Open in VS Code Desktop”
+- You should then be redirected to VS Code on your desktop where on the welcome screen options such as “new file”, “open” … “connect to” and “Generate new workspace” are listed. Select the “Connect to” option which should be the second to last option then select connect to code space (1st option) in the the dropdown menu that appears
+- Next open your terminal and conform that you are in the root project directory - done with use of command pwd
+- Create a virtual environment in your terminal (use:  python3 -m venv “virtual environment name” note: do not include 3 in python if not using Mac)
+- Activate virtual environment (using: source “virtual environment name”/bin/activate)
+- Install the required packages with use of pip install “packages”
+- Save the installed packages to the requirements.txt to house all dependencies
+- Create a .py file, and include the necessary info you wish to have in this file and push and commit to GitHub (to do this use: git status, git add . , git commit -m “describe changes made here” , git push origin) note: do these individually DO NOT include commas
