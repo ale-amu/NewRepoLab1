@@ -1,4 +1,4 @@
-Recipe - Creating a New working directory
+# Recipe - Creating a New working directory
 - Fork an existing repository on Github - should be the grey button on top right
 - Locate the Green “Code” button on the top right corner then proceed to click the code space button
 - You should be redirected to a new tab where on the top left 3 lines sandwiched together among a few options you should see one listed as “Open in VS Code Desktop”
